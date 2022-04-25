@@ -1,7 +1,7 @@
 Step 1: Make sure to remove "MultiQuiz" nested folder from "Multi-Quiz" folder itself.
         Keep your "MultiQuiz" folder you removed within your Documents folder.
 
-Step 2: When using this application, make sure to format the "questions.txt" file correctly, follow step 2.
+Step 2: When using this application, make sure to format the "questions.txt" file correctly, follow step 3.
 
 Step 3: To format file correctly by the Aiken standard, make sure to end questions with ?, start options with ),
         and keep your answer as 1 character.
